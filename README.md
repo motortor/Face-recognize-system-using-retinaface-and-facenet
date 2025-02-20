@@ -14,3 +14,4 @@ Face recognize system using retinaface and facenet
 
 二、 数据库录入功能的实现
 数据库录入功能的实现相对就很容易，因为它的本质就是用摄像头拍下含有人脸信息的照片，然后将照片保存在指定的文件夹里即可。数据库录入功能的效果，如图所示。
+![image](https://github.com/motortor/Face-recognize-system-using-retinaface-and-facenet/blob/main/sample.png)  
